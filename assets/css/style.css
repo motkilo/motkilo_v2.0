@@ -1,0 +1,36 @@
+@import url("reset.css");
+
+body {
+  background-color: #1a1a1a;
+}
+
+/* header formatting */
+
+header {
+  margin-top: 15px;
+  padding: 10px;
+  height: 200px;
+  background-image: linear-gradient(to right, #333333, #b3b3b3,#f2f2f2, #b3b3b3, #333333);
+}
+
+.header-text {
+  color: #fe4b03;
+  text-align: center;
+  padding: 10px;
+}
+
+#motkilo {
+  font-size:100px;
+  letter-spacing: 35px;
+}
+
+#tech-co-text {
+  font-size: 30px;
+  letter-spacing: 15px;
+  word-spacing: 25px;
+}
+
+
+
+
+
